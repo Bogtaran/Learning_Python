@@ -8,3 +8,5 @@ print('Ну и шляпа!!!')
 print('Нехороший Pycharm')
 
 print('Даю еще один шанс!!!')
+
+glgguiug
